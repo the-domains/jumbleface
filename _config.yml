@@ -1,0 +1,14 @@
+layout_spectrum: 0.8634945743251592
+typography_spectrum: 0.6284867078065872
+color:
+  brandStrength: 0.7139978904742748
+  lightness: 0.3992233439348638
+  saturation: 0.055470371851697564
+  rhythmicContrast: 0.15637978469021618
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: JumbleFace
