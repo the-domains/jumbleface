@@ -18,6 +18,9 @@ navigation:
   - name: JumbleFace on the App Store
     url: 'https://itunes.apple.com/us/app/jumbleface/id517210140'
     type: external
+  - name: Duccats
+    url: 'http://duccats.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5275d9fa-7c90-433e-8e5f-b5b8b7b84031.png
 title: JumbleFace
