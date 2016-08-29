@@ -1,4 +1,3 @@
-layout_spectrum: 0.8634945743251592
 typography_spectrum: 0.6284867078065872
 color:
   brandStrength: 0.7139978904742748
@@ -11,4 +10,6 @@ color:
     - '#F2C689'
     - '#936031'
     - '#0093FF'
+layout_spectrum: 0.8634945743251592
 name: JumbleFace
+description: "Fun with a Porpoise! \uD83D\uDC2C "
