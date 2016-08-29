@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-27T23:14:56.680Z'
+datePublished: '2016-08-27T23:16:28.801Z'
+sourcePath: _posts/2016-08-27-jumbleface-for-the-human-race.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-27T23:14:41.784Z'
+dateModified: '2016-08-27T23:16:28.331Z'
 title: JumbleFace for the Human Race!
 publisher: {}
 description: Foster Unity with JumbleFace!
 starred: false
-sourcePath: _posts/2016-08-27-jumbleface-for-the-human-race.md
 _type: Blurb
 
 ---
@@ -33,8 +33,6 @@ JumbleFace encourages all ages to appreciate diversity, and helps to create posi
 LOOKS GREAT ON ANY DEVICE.
 
 JumbleFace looks terriffic on all iOS devices with high resolution graphics tailored specifically for each size. Version 2 is here now!
-
-_No Ads - No In App Purchases - No Upgrade Costs - Just Awesome Fun!_
 
 NEW VERSION 2 FUN FEATURES
 
