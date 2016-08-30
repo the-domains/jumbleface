@@ -1,3 +1,4 @@
+layout_spectrum: 0.8634945743251592
 typography_spectrum: 0.6284867078065872
 color:
   brandStrength: 0.7139978904742748
@@ -5,23 +6,9 @@ color:
   saturation: 0.055470371851697564
   rhythmicContrast: 0.15637978469021618
   brandColors:
-    - '#FFFFFF'
-    - '#211F1C'
-    - '#F2C689'
-    - '#936031'
-    - '#0093FF'
-layout_spectrum: 0.8634945743251592
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3239a33-9bf8-4a76-98bd-9d1826902777.png
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: JumbleFace
-navigation:
-  - name: JumbleFace on the App Store
-    url: 'https://itunes.apple.com/us/app/jumbleface/id517210140'
-    type: external
-  - name: Duccats
-    url: 'http://duccats.com'
-    type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5275d9fa-7c90-433e-8e5f-b5b8b7b84031.png
-title: JumbleFace
-description: "Fun with a Porpoise! \uD83D\uDC2C "
